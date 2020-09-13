@@ -7,23 +7,36 @@
   "LastName": "Soares",
   "devDesc": "| Machine Learning Research Engineer | Data Scientist | Software Engineer ",
   "icons": [
-    {
+  
+   {
       "id": 0,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/ivomarbrito",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
       "image": "fa-github",
       "url": "https://github.com/ivomarb",
       "style": "socialicons"
     },
     {
-      "id": 1,
+      "id": 2,
       "image": "fa-linkedin",
       "url": "https://www.linkedin.com/in/ivomar-brito-soares-26b3b9151/",
       "style": "socialicons"
     },
     {
-      "id": 2,
+      "id": 3,
       "image": "fa-twitter",
       "url": "https://www.twitter.com/ivomarbrito/",
       "style": "socialicons"
+    },
+    {      
+      "id": 4,      
+      "image": "fas fa-envelope",      
+      "url": "mailto:ivomarbsoares@gmail.com",      
+      "style": "socialicons"    
     }
   ],
   "aboutHeading": "About Me",
@@ -31,7 +44,7 @@
   "instaLink": "https://www.instagram.com/",
   "instaUsername": "ivomarbrito",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "I'm a Machine Learning Research Engineer and Data Scientist from Campina Grande, Brazil with 10+ years of experience in IT. I’m currently a data scientist at TradersClub and I contribute to scikit-learn. I'm passionate about teaching machines how to learn from experience.",
+  "aboutDescription": "Machine Learning Research Engineer and Data Scientist from Campina Grande, Brazil with 10+ years of experience in IT. Currently a data scientist at TradersClub and  contributor to scikit-learn. I'm passionate about teaching machines how to learn from experience.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "ivomarb",

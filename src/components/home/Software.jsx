@@ -47,7 +47,8 @@ return (
                     <p className="lead text-left" style={{fontSize:'22px'}}>
                         Role: Developer  (June 2010 - July 2016)
                         <br/>
-                        AirTOp, developed by <a href="https://airtopsoft.com/" target="_blank">Airtopsoft</a>, is the leading fast-time air traffic complexity modelling, simulation and assessment software. Today, AirTOP users include major air navigation service providers (ANSPs), airport authorities, airlines, research labs and consulting companies globally. AirTOP is used to assess air traffic and airport complexity, measure controller workload, improve airspace and airport capacity, and much more.
+                        AirTOp, developed by <a href="https://airtopsoft.com/" target="_blank">Airtopsoft</a>, is the leading fast-time air traffic complexity modelling, simulation and assessment software. Today, AirTOP users include major air navigation service providers (ANSPs), airport authorities, airlines, research labs and consulting companies globally. AirTOP is used to assess air traffic and airport complexity, measure controller workload, improve airspace and airport capacity, and much more. I rewrote the airspace conflict detection and resolution module and the airport Departure MANagement (DMAN) module. I was responsible for the iPort (Innovative Airport) project. Collaborative initiative between Airtopsoft and DFS (Deutsche Flugsicherung), delair Air Traffic Systems e DLR (German Aerospace
+Center), the last three based in Germany. Finally, I was also responsible for the ASAS (Airborne Separation Assistance System) project with ENAV in Italy. Project part of the SESAR (Single European Sky) initiative of Eurocontrol.
 
                     </p>
                     
