@@ -5,35 +5,29 @@
   "FirstName": "Ivomar",
   "MiddleName": "Brito",
   "LastName": "Soares",
-  "devDesc": "| Machine Learning Research Engineer | Data Scientist | Software Engineer ",
+  "devDesc": "Software Engineer | Data Scientist",
   "icons": [
   
-   {
-      "id": 0,
-      "image": "fa-facebook",
-      "url": "https://www.facebook.com/ivomarbrito",
-      "style": "socialicons"
-    },
     {
-      "id": 1,
+      "id": 0,
       "image": "fa-github",
       "url": "https://github.com/ivomarb",
       "style": "socialicons"
     },
     {
-      "id": 2,
+      "id": 1,
       "image": "fa-linkedin",
       "url": "https://www.linkedin.com/in/ivomar-brito-soares-26b3b9151/",
       "style": "socialicons"
     },
     {
-      "id": 3,
+      "id": 2,
       "image": "fa-twitter",
       "url": "https://www.twitter.com/ivomarbrito/",
       "style": "socialicons"
     },
     {      
-      "id": 4,      
+      "id": 3,      
       "image": "fas fa-envelope",      
       "url": "mailto:ivomarbsoares@gmail.com",      
       "style": "socialicons"    
