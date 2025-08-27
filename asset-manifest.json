@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9fc689ea.chunk.css",
+    "main.js": "/static/js/main.95d1e179.chunk.js",
+    "main.js.map": "/static/js/main.95d1e179.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6a060e8a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6a060e8a.js.map",
+    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
+    "static/js/2.9c4c71ed.chunk.js": "/static/js/2.9c4c71ed.chunk.js",
+    "static/js/2.9c4c71ed.chunk.js.map": "/static/js/2.9c4c71ed.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a9a4e49e4be2b098d97216d29ae5d1d1.js": "/precache-manifest.a9a4e49e4be2b098d97216d29ae5d1d1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
+    "static/css/main.9fc689ea.chunk.css.map": "/static/css/main.9fc689ea.chunk.css.map",
+    "static/js/2.9c4c71ed.chunk.js.LICENSE.txt": "/static/js/2.9c4c71ed.chunk.js.LICENSE.txt",
+    "static/media/airtop-logo.png": "/static/media/airtop-logo.f3e984e2.png",
+    "static/media/cgdatascience-logo.jpg": "/static/media/cgdatascience-logo.93ee39ee.jpg",
+    "static/media/resume.pdf": "/static/media/resume.fd650cd7.pdf",
+    "static/media/scikit-learn-logo.png": "/static/media/scikit-learn-logo.f8ba65f3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a060e8a.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.9c4c71ed.chunk.js",
+    "static/css/main.9fc689ea.chunk.css",
+    "static/js/main.95d1e179.chunk.js"
+  ]
+}
